@@ -2,7 +2,7 @@
 
 Project Description: This is the website that can be used for landing page of restaurant websites.
 
-Live demo of this project: [Live Demo - Restaurant Landing Page 1](#)
+Live demo of this project: [Live Demo - Restaurant Landing Page 1](https://restaurant-landing-page-1-prasanthkj.vercel.app/)
 
 Website Developed by: **[Prasanth KJ](https://www.prasanthkj.com)**
 
@@ -10,7 +10,7 @@ Technology used     : **HTML5, CSS**
 
 ### Blog Demo:
 
-![Flashion Blog Homepage](https://github.com/PrasanthKJ/Fashion-Blog/blob/main/1.png)
+![Restaurant Landing Page](https://github.com/PrasanthKJ/Restaurant-Landing-Page-1/blob/main/2.png)
 
 ---
 ### P.S
